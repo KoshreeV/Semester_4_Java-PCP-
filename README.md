@@ -1,0 +1,1 @@
+# sum-of-elements-in-even-positions-in-java
